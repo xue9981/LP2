@@ -1,0 +1,6 @@
+from friend_names import friend_names
+
+greet = "Hello"
+
+while friend_names != []:
+    print(greet + friend_names.pop().title())

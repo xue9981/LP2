@@ -1,0 +1,8 @@
+rest_area = {}
+
+poll_active = True
+while poll_active = True:
+    area = input("If you could visit one place in the world, \
+    where would you go?\n(Enter quit to finish): ")
+
+    if area == 'quit'

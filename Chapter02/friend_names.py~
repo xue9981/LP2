@@ -1,0 +1,6 @@
+friend_names = ["sato", "watanabe", "inoue",\
+                "mita", "nanbu"]
+
+for name in freind_names:
+    print(name)
+    

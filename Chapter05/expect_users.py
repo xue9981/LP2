@@ -1,0 +1,14 @@
+current_users = ['bob', 'negisi', 'eric', 'inoue', 'jack']
+new_users = ['JAcK', 'nagi']
+
+for new_user in new_users:
+    if new_user.lower() in current_users:
+        print("Name: " + new_user.lower() + " has been used, please make another " + \
+              "user name in alternitive")
+    else:
+        print("Name: " + new_user + " is a new user name. Are you sure to user " + \
+              "Name :" + new_user + " as your name?")
+        
+
+
+

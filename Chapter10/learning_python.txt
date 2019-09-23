@@ -1,0 +1,5 @@
+In Python you can use if statement
+In Python you can use for statement
+In Python you can use array
+In Python you can use dictionary
+In Python you can use while statement

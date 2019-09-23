@@ -1,0 +1,11 @@
+favorite_places = {"sen": ["egypt", "vietnam", "japan"], "zhang": ["china", "america", "UK"],
+                   "lili": ["brazil", "india", "canada"]}
+
+friend_toppics = ["japan", "canada", "china"]
+
+for person, place in favorite_places.items():
+    favirite = person.title() + "'s favorite places are: "
+    for friend_toppic in friend_toppics:
+        if friend_toppic in place:
+            print(person.title() + "'s favorite places are: " +
+                  

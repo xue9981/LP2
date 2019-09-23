@@ -1,0 +1,6 @@
+countries = ['China', 'Japan', 'America', \
+            'Egypt', 'UK']
+
+length = len(countries)
+countries.pop()
+print(countries[len - 1])

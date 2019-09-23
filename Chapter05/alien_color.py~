@@ -1,0 +1,10 @@
+alien_color = 'green'
+
+if alien_color == 'green':
+    point = 5
+else:
+    point = 0
+    
+print("Kill " + alien_color + "alien!\n" + \
+      "Get " + point + " score!")
+    

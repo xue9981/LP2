@@ -1,0 +1,14 @@
+country = ['China', 'Japan', 'American', \
+           'India', 'Vietnam']
+
+print(sorted(country))
+print(country)
+
+print(reverse(country))
+print(country)
+
+print(country.sort())
+print(country)
+
+print(country.sort(reverse=True))
+print(country)

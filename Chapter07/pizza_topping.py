@@ -1,0 +1,14 @@
+prompt = "\nPlease input toppings you want to add to your pizza"
+prompt += "\n(Enter 'quit' to finish the program) "
+
+topping = ""
+active = True
+while active:
+    topping = input(prompt)
+    if topping == 'quit':
+        active = False
+    else:
+        print(topping)
+
+        
+        

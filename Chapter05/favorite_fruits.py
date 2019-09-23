@@ -1,0 +1,18 @@
+my_favorit_fruits = ['watermellon', 'peach', 'apple']
+
+if 'watermellon' in my_favorit_fruits:
+    target = 'watermellon'
+
+if 'peach' in my_favorit_fruits:
+    target = 'peach'
+
+if 'apple' in my_favorit_fruits:
+    target = 'apple'
+
+if 'strowberry' in my_favorit_fruits:
+    target = 'strowberry'
+
+if 'banana' in my_favorit_fruits:
+    target = 'banana'
+
+print("You really like " + target + '!')

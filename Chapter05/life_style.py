@@ -1,0 +1,18 @@
+for age in range(0, 101):
+    
+    if age < 2:
+        step = 'baby'
+    elif age < 4:
+        step = 'learning how to walk'
+    elif age < 13:
+        step = 'child'
+    elif age < 20:
+        step = 'youth'
+    elif age < 65:
+        step = 'adult'
+    else:
+        step = 'old-man'
+        
+    print("You are " + step + " now.")
+
+

@@ -1,0 +1,8 @@
+word_dic = {'pig':'animal', 'dollar':'currency', 'Tokyo': "Japan's capital",
+            'computer':'tool', 'git':'software'}
+
+print("pig: " + word_dic["pig"])
+print("dollar: " + word_dic["dollar"])
+print("Tokyo: " + word_dic["Tokyo"])
+print("computer: " + word_dic["computer"])
+print("git: " + word_dic["git"])

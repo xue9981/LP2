@@ -1,0 +1,12 @@
+def board(news, name_list):
+    print("\t\t\t\t---News---")
+    print("\n")
+    print(news)
+    print("\n")
+
+    print("member :")
+    for name in name_list:
+        print(name + " ")
+
+    
+        

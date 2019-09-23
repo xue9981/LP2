@@ -1,0 +1,6 @@
+animals = ['tiger', 'lion', 'elephant']
+
+for animal in animals:
+    print(animal)
+
+    

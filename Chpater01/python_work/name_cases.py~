@@ -1,0 +1,6 @@
+famous = " \tSteve Jobs\n\tZhou Enlai "
+print(famous)
+print(famous.rstrip())
+print(famous.lstrip())
+print(famous.strip())
+

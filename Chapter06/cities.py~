@@ -1,0 +1,2 @@
+cities = {"tokyo": {"country": "japan", "population": 9270000, "minimum wage": "$9.13"}
+          "shanghai": {"country": "china", "population": 24240000, "minimum wage"

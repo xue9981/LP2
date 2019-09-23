@@ -1,0 +1,9 @@
+favorite_num = {}
+
+favorite_num['bob'] = 1
+favorite_num['jack'] = 2
+favorite_num['nagi'] = 3
+favorite_num['negisi'] = 4
+favorite_num['charlie'] = 5
+
+print(favorite_num)

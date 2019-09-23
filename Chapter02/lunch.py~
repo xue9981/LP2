@@ -1,0 +1,6 @@
+foods = ('humburger', 'pizza', 'coke', 'rice', 'watermelon')
+
+for food in foods:
+    print(food)
+    
+

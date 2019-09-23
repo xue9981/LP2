@@ -1,0 +1,4 @@
+name: Shunhou, age: 21, country: China, criminal record: no
+name: Aria, age: 18, country: Japan, criminal record: no
+name: Aria, age: 18, country: Japan, criminal record: no
+name: Ruka, age: 21, country: Japan, criminal record: no

@@ -1,0 +1,16 @@
+liver_dic = {
+    'nile': 'egypt',
+    'amazon': 'brazil',
+    'indus': 'india',
+    }
+
+for country, liver in liver_dic.items():
+    print("The " + liver.title() + "runs throught " +
+          country.title())
+
+for country in liver_dic.keys().sorted:
+    print(country.title())
+
+for liver in liver_dic.values().sorted:
+    print(liver.title())
+    

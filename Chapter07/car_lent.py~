@@ -1,0 +1,5 @@
+message = "What kind of car do you want to lent?"
+
+car = input(message)
+
+print("Let me see if I can find you a " + car)
