@@ -12,4 +12,7 @@ class Settings():
         else:
             self.bg_color = (230, 230, 230)
 
+        # set ship's setting
+        self.ship_speed_factor = 1.5
+
     

@@ -15,14 +15,14 @@ def run_game():
     pygame.display.set_caption("Alian Invasion")
 
     # create an ship object
-    ship = Ship(screen)
+    ship = Ship(ai_settings, screen)
 
     # start game loop
     while True:
         # monitor keyboard and mouse click
-        gf.check_events()
-
+        gf.check_events(ship)
+        ship.update()
         # refill the screen in the loop
-        gf.update_screen(ai_settings, screen, ship)
+        gf.update_screen(ai_settings, ship, screen)
 
 run_game()
